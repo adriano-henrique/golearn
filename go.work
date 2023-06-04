@@ -1,0 +1,7 @@
+go 1.20
+
+use (
+	./advent/dayone
+	./advent/dayone/main
+	./advent/dayone/util
+)
